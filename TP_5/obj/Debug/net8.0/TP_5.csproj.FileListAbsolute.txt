@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\TP1\TP_5\bin\Debug\net8.0\TP_5.exe
+C:\Users\Lucas\source\repos\TP1\TP_5\bin\Debug\net8.0\TP_5.deps.json
+C:\Users\Lucas\source\repos\TP1\TP_5\bin\Debug\net8.0\TP_5.runtimeconfig.json
+C:\Users\Lucas\source\repos\TP1\TP_5\bin\Debug\net8.0\TP_5.dll
+C:\Users\Lucas\source\repos\TP1\TP_5\bin\Debug\net8.0\TP_5.pdb
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.dll
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\refint\TP_5.dll
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.pdb
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\TP_5.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\TP1\TP_5\obj\Debug\net8.0\ref\TP_5.dll
